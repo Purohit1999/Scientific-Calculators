@@ -66,7 +66,7 @@ scientific-calculator/
 
 ## 🤝 Contributing
 
-Contributions are welcome![LICENSE](https://github.com/Purohit1999/Scientific-Calculators/blob/main/LICENSE) If you want to improve the calculator or add new features, follow these steps:
+Contributions are welcome! [LICENSE](https://github.com/Purohit1999/Scientific-Calculators/blob/main/LICENSE) If you want to improve the calculator or add new features, follow these steps:
 
 1. Fork the repository.
 2. Create a feature branch:
