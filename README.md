@@ -95,7 +95,7 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 
 If you have any questions or feedback, feel free to reach out:
 
-- **Name**: [Param Purohit](https://www.linkedin.com/in/param-p-370616310/)
+- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/param-p-370616310/)
 - **GitHub**: [Purohit1999](https://github.com/Purohit1999)
 
 ---
